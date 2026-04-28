@@ -1,12 +1,12 @@
 import { useState, useEffect } from 'react';
 
 const images = [
-  "/Pics/header.jpg",
-  "/Pics/546698486_17859156249497458_3541776964028580744_n.jpg",
-  "/Pics/38_2025_11_27__12_52_55.jpg",
-  "/Pics/49_2025_11_05__16_43_36.jpg",
-  "/Pics/4_2026_04_26__08_51_40.jpg",
-  "/Pics/547880828_17859156300497458_3493450880286575366_n.jpg"
+  "Pics/header.jpg",
+  "Pics/546698486_17859156249497458_3541776964028580744_n.jpg",
+  "Pics/38_2025_11_27__12_52_55.jpg",
+  "Pics/49_2025_11_05__16_43_36.jpg",
+  "Pics/4_2026_04_26__08_51_40.jpg",
+  "Pics/547880828_17859156300497458_3493450880286575366_n.jpg"
 ];
 
 export default function Hero() {
@@ -67,7 +67,7 @@ export default function Hero() {
       }} />
 
       <div className="container hero-content" style={{ position: 'relative', zIndex: 3 }}>
-        <img src="/kama_logo_hebrew.png" alt="לוגו קמא" className="hero-logo" />
+        <img src="kama_logo_hebrew.png" alt="לוגו קמא" className="hero-logo" />
         <p className="subtitle" style={{ fontWeight: 700, color: '#1a4142' }}>
           בוקר טוב, מאפים טריים, קפה, כריכים, מתוקים ויין — באווירה חמימה ונעימה בגן יבנה.
         </p>

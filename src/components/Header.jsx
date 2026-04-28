@@ -3,7 +3,7 @@ export default function Header() {
     <header>
       <nav className="container nav" aria-label="ניווט ראשי">
         <a className="brand" href="#top" aria-label="קמא דף הבית">
-          <img src="/kama_logo.png" alt="לוגו קמא" />
+          <img src="kama_logo.png" alt="לוגו קמא" />
           <span></span>
         </a>
         <div className="nav-links">
