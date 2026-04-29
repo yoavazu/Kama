@@ -2,7 +2,7 @@
   "name": "temp-react-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://yoavazu.github.io/Kama",
+  "homepage": "https://yoavazu.link",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
