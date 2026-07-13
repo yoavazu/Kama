@@ -4,17 +4,14 @@ export default function About() {
       <div className="container">
         <div className="features">
           <article className="feature-card">
-            <div className="feature-icon">☕</div>
             <h3>קפה ומשקאות</h3>
             <p>אספרסו, קפה קר, שוקו, תה, מיצים טבעיים ומשקאות קרים וחמים לאורך היום, הכל טרי ומוכן במקום.</p>
           </article>
           <article className="feature-card">
-            <div className="feature-icon">🥐</div>
             <h3>מאפים וכריכים</h3>
             <p>מאפים טריים, קרואסונים, פוקאצ׳ות, טוסטים, שקשוקה וארוחות בוקר מגוונות להתחלה מושלמת של היום.</p>
           </article>
           <article className="feature-card">
-            <div className="feature-icon">🍷</div>
             <h3>יין ואווירה</h3>
             <p>תפריט יין נעים לצד אוכל טוב — מתאים לעצירה קצרה, דייט או ישיבה רגועה בשעות הערב.</p>
           </article>
